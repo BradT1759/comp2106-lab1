@@ -1,4 +1,4 @@
-prompt ("This is a game of Rock, Paper, Scissors. Which will you choose for this round?");
+prompt ("Which will you choose? Rock, Paper or Scissors?");
 var computerChoice = Math.random();
 {
 if (0 >= 0.33) { console.log("Rock"); } 
